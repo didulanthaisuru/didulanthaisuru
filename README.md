@@ -10,10 +10,7 @@
 
 ---
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=134&color=808080&text=𝗖𝗼𝗻𝗻𝗲𝗰𝘁%20𝘄𝗶𝘁𝗵%20𝗠𝗲&fontAlign=50&fontSize=19&fontColor=808080"/>
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isurudidulantha) 
 [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat&logo=medium&logoColor=white)](https://medium.com/@isurudidulantha) 
 [![Instagram](https://img.shields.io/badge/-Instagram-grey?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isurudidulantha) 
