@@ -2,9 +2,7 @@
   <span style="font-size:48px; font-weight:bold;">𝗜𝘀𝘂𝗿𝘂 𝗗𝗶𝗱𝘂𝗹𝗮𝗻𝘁𝗵𝗮</span>
 </p>
 
-<div align="center">
-  <span style="font-size:20px; color:#FF6B6B; font-weight:bold;">🔥 Making Machines Curious, Solving Real-World Chaos</span>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=FFA500&text=🔥%20Making%20Machines%20Curious,%20Solving%20Real-World%20Chaos&fontAlign=50&fontSize=32&fontColor=808080"/>
 
 <div align="center">
 <div style="border: 2px solid #FF6B6B; border-radius: 12px; padding: 20px; text-align: justify; background-color: #1e1e1e; color: #ffffff; line-height: 1.6; max-width: 800px; margin: auto;">
@@ -15,9 +13,3 @@
 ---
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/isurudidulantha) | [Medium](https://medium.com/@isurudidulantha) | [Email](mailto:isurudidulantha@gmail.com)
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Building%20The%20Future&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-
