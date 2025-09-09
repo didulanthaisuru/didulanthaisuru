@@ -15,8 +15,8 @@
 ---
 <h2 align="left" style="color:#808080;">Areas of Expertise</h2>
 
-* 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Models : GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
+* 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀) :<br>
+  Models : GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techniques : Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agentic AI Workflows : Crew AI, LangChain, LangGraph, LangSmith  
 * 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗡𝗟𝗣) : Text classification, Summarization, Question answering, Speech recognition (Whisper)  
