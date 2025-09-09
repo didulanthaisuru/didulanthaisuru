@@ -7,30 +7,10 @@
 </p>
 
 <p align="center">
-I’m an <b>Artificial Intelligence undergraduate</b> passionate about turning <b>math, statistics, and data</b> into intelligent systems.  
-Exploring <b>Machine Learning, Deep Learning, NLP, and Time Series Forecasting</b> through projects and research.
-</p>
-
----
-
-## 🛠️ What I’m Working On
-- RAG-based AI assistants 🤖  
-- Predictive modeling & forecasting systems 📊  
-- NLP experiments & research papers 📝  
-
----
-
-## 🌱 Currently Learning
-- MLOps & scalable AI systems ☁️  
-- Advanced NLP architectures & embeddings 🧠  
-- Novel time series forecasting techniques ⏳  
+I’m a <b>3rd-year Artificial Intelligence undergraduate</b> passionate about mastering <b>core AI fundamentals</b> and transforming <b>math, statistics, and data</b> into intelligent systems. I explore <b>Machine Learning, Deep Learning, Natural Language Processing, Agentic AI, and Time Series Forecasting</b> through <b>research and projects built from scratch</b>, applying <b>fundamental theory</b> to <b>real-world problems</b> and creating <b>practical AI solutions with tangible impact</b>.
 
 ---
 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/isurudidulantha) | [Medium](https://medium.com/@isurudidulantha) | [Email](mailto:isurudidulantha@gmail.com)  
 
----
-
-## ⚡ Fun Fact
-I like **turning chaos into predictions** and seeing machines learn things humans didn’t even know they could. 💡  
