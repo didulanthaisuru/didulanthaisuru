@@ -13,20 +13,20 @@
 [LinkedIn](https://www.linkedin.com/in/isurudidulantha) | [Medium](https://medium.com/@isurudidulantha) | [Email](mailto:isurudidulantha@gmail.com)
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=808080&text=𝗔𝗿𝗲𝗮𝘀%20𝗼𝗳%20𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲&fontAlign=11&fontSize=22&fontColor=808080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=808080&text=𝗔𝗿𝗲𝗮𝘀%20𝗼𝗳%20𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲&fontAlign=11&fontSize=22&fontColor=808080"/>\
 
+▪ 𝗧𝗶𝗺𝗲 𝗦𝗲𝗿𝗶𝗲𝘀 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 : N-BEATS, TFT, LSTM, Prophet, Tree-based models (Random Forest, XGBoost, CatBoost, LightGBM) 
 ▪ 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀) :<br>
-  &nbsp;&nbsp;◦ 𝗺𝗼𝗱𝗲𝗹𝘀 : GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
-  &nbsp;&nbsp;◦ 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 : Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
-  &nbsp;&nbsp;◦ 𝗮𝗴𝗲𝗻𝘁𝗶𝗰 𝗮𝗶 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 : Crew AI, LangChain, LangGraph, LangSmith  
-▪ 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗡𝗟𝗣) : Text classification, Summarization, Question answering, Speech recognition (Whisper)  
-▪ 𝗧𝗶𝗺𝗲 𝗦𝗲𝗿𝗶𝗲𝘀 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 : N-BEATS, TFT, LSTM, Prophet, Tree-based models (Random Forest, XGBoost, CatBoost, LightGBM)  
+  &nbsp;&nbsp;&nbsp;◦ 𝗺𝗼𝗱𝗲𝗹𝘀 : GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
+  &nbsp;&nbsp;&nbsp;◦ 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 : Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
+  &nbsp;&nbsp;&nbsp;◦ 𝗮𝗴𝗲𝗻𝘁𝗶𝗰 𝗮𝗶 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 : Crew AI, LangChain, LangGraph, LangSmith  
+▪ 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗡𝗟𝗣) : Text classification, Summarization, Question answering, Speech recognition (Whisper)   
 ▪ 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 : Image, audio, and text generation, Diffusion models, Creative AI pipelines  
 ▪ 𝗠𝗟𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱 : End-to-end model deployment, CI/CD, Monitoring, Scalable pipelines, Docker, MLflow, Azure AI Studio  
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=808080&text=𝗧𝗲𝗰𝗵%20𝗦𝘁𝗮𝗰𝗸%20and%20𝗧𝗼𝗼𝗹𝘀&fontAlign=14&fontSize=22&fontColor=808080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=808080&text=𝗧𝗲𝗰𝗵%20𝗦𝘁𝗮𝗰𝗸%20and%20𝗧𝗼𝗼𝗹𝘀&fontAlign=12&fontSize=22&fontColor=808080"/>
 
 ▪ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 : Python, C++, Java, JavaScript, C, R, Prolog  
 ▪ 𝗠𝗟/𝗗𝗟 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 : TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, SciPy, MATLAB, Optuna  
