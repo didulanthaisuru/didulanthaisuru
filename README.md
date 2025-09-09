@@ -1,14 +1,6 @@
-<div align="center">
-<svg width="500" height="80">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <text x="50%" y="50%" font-size="36" font-weight="bold" fill="url(#grad1)" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">Isuru Didulantha</text>
-</svg>
-</div>
+<p align="center">
+  <span style="font-size:48px; font-weight:bold;">𝗜𝘀𝘂𝗿𝘂 𝗗𝗶𝗱𝘂𝗹𝗮𝗻𝘁𝗵𝗮</span>
+</p>
 
 <div align="center">
   <span style="font-size:20px; color:#FF6B6B; font-weight:bold;">🔥 Making Machines Curious, Solving Real-World Chaos</span>
