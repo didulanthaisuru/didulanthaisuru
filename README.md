@@ -13,6 +13,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=808080&text=𝗖𝗼𝗻𝗻𝗲𝗰𝘁%20𝘄𝗶𝘁𝗵%20𝗠𝗲&fontAlign=50&fontSize=20&fontColor=808080"/>
 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isurudidulantha) 
 [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat&logo=medium&logoColor=white)](https://medium.com/@isurudidulantha) 
 [![Instagram](https://img.shields.io/badge/-Instagram-grey?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isurudidulantha) 
@@ -20,6 +21,7 @@
 [![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:isurudidulantha@gmail.com)
 
 </div>
+
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=808080&text=𝗔𝗿𝗲𝗮𝘀%20𝗼𝗳%20𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲&fontAlign=11&fontSize=20&fontColor=808080"/>
 
