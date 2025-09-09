@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&color=FFA500&text=𝗜𝘀𝘂𝗿𝘂%20𝗗𝗶𝗱𝘂𝗹𝗮𝗻𝘁𝗵𝗮&fontAlign=50&fontSize=40&fontColor=ffffff"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=FFA500&text=🔥%20Making%20Machines%20Curious,%20Solving%20Real-World%20Chaos&fontAlign=50&fontSize=24&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=FFA500&text=🔥%20Making%20Machines%20Curious,%20Solving%20Real-World%20Chaos&fontAlign=50&fontSize=32&fontColor=808080"/>
+
 
 <div align="center">
 <div style="border: 2px solid #FF6B6B; border-radius: 12px; padding: 20px; text-align: justify; background-color: #1e1e1e; color: #ffffff; line-height: 1.6; max-width: 800px; margin: auto;">
