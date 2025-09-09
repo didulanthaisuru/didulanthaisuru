@@ -15,7 +15,7 @@
 ---
 ## 🚀 Areas of Expertise
 
-* 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀)
+* 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀)<br>
      𝗠𝗼𝗱𝗲𝗹:GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
      𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀: Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
      𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀: Crew AI, LangChain, LangGraph, LangSmith  
