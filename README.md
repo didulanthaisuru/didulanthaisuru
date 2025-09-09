@@ -27,7 +27,7 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=808080&text=𝗧𝗲𝗰𝗵%20𝗦𝘁𝗮𝗰𝗸%20and%20𝗧𝗼𝗼𝗹𝘀&fontAlign=11&fontSize=22&fontColor=808080"/>
 ▪ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 : Python, C++, Java, JavaScript, C, R, Prolog  
 ▪ 𝗠𝗟/𝗗𝗟 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 : TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, SciPy, MATLAB, Optuna  
 ▪ 𝗔𝗜/𝗟𝗟𝗠 𝗘𝗰𝗼𝘀𝘆𝘀𝘁𝗲𝗺 : Hugging Face Transformers, LangChain, LangGraph, LangSmith, Ollama  
