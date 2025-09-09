@@ -1,5 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=45&color=808080&text=𝗜𝘀𝘂𝗿𝘂%20𝗗𝗶𝗱𝘂𝗹𝗮𝗻𝘁𝗵𝗮&fontAlign=50&fontSize=50&fontColor=808080"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=110&color=FFA500&text=🔥%20Making%20Machines%20Curious,%20Solving%20Real-World%20Chaos&fontAlign=50&fontSize=32&fontColor=808080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=45&color=808080&text=𝗜𝘀𝘂𝗿𝘂%20𝗗𝗶𝗱𝘂𝗹𝗮𝗻𝘁𝗵𝗮&fontAlign=50&fontSize=45&fontColor=808080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=110&color=FFA500&text=🔥%20Making%20Machines%20Curious,%20Solving%20Real-World%20Chaos&fontAlign=50&fontSize=22&fontColor=808080"/>
 
 
 <div align="center">
