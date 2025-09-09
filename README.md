@@ -13,7 +13,7 @@
 [LinkedIn](https://www.linkedin.com/in/isurudidulantha) | [Medium](https://medium.com/@isurudidulantha) | [Email](mailto:isurudidulantha@gmail.com)
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=16&color=808080&text=𝗔𝗿𝗲𝗮𝘀%20𝗼𝗳%20𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲&fontAlign=0&fontSize=16&fontColor=808080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=16&color=808080&text=𝗔𝗿𝗲𝗮𝘀%20𝗼𝗳%20𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲&fontAlign=20&fontSize=22&fontColor=808080"/>
 
 ▪ 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀) :<br>
   ◦ 𝗺𝗼𝗱𝗲𝗹𝘀 : GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
