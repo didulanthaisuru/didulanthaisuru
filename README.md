@@ -11,7 +11,7 @@
 ---
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=808080&text=𝗖𝗼𝗻𝗻𝗲𝗰𝘁%20𝘄𝗶𝘁𝗵%20𝗠𝗲&fontAlign=50&fontSize=20&fontColor=808080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venomt&height=30&color=#D3D3D3&text=𝗖𝗼𝗻𝗻𝗲𝗰𝘁%20𝘄𝗶𝘁𝗵%20𝗠𝗲&fontAlign=50&fontSize=20&fontColor=808080"/>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isurudidulantha) 
