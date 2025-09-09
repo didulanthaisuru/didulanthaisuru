@@ -15,30 +15,50 @@
 ---
 ## 🚀 Areas of Expertise
 
-* **Large Language Models (LLMs)**
-  * **Models:** GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
-  * **Techniques:** Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
-  * **Agentic AI Workflows:** Crew AI, LangChain, LangGraph, LangSmith  
+* **𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀)**  
+  𝗠𝗼𝗱𝗲𝗹:GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
+  𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀: Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
+  𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀: Crew AI, LangChain, LangGraph, LangSmith  
 
-* **Natural Language Processing (NLP)** — Text classification, summarization, question answering, speech recognition (Whisper)  
+* **𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗡𝗟𝗣)**  
+  Text classification, Summarization, Question answering, Speech recognition (Whisper)  
 
-* **Time Series Forecasting** — N-BEATS, Temporal Fusion Transformer (TFT), LSTM, Prophet, Tree-based Models (Random Forest, XGBoost, CatBoost, LightGBM)  
+* **𝗧𝗶𝗺𝗲 𝗦𝗲𝗿𝗶𝗲𝘀 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴**  
+  N-BEATS, TFT, LSTM, Prophet, Tree-based models (Random Forest, XGBoost, CatBoost, LightGBM)  
 
-* **Generative AI** — Image, audio, and text generation, Diffusion models, Creative AI pipelines  
+* **𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜**  
+  Image, audio, and text generation, Diffusion models, Creative AI pipelines  
 
-* **MLOps & Cloud** — End-to-end model deployment, CI/CD, Monitoring, Scalable pipelines, Docker, MLflow, Azure AI Studio  
+* **𝗠𝗟𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱**  
+  End-to-end model deployment, CI/CD, Monitoring, Scalable pipelines, Docker, MLflow, Azure AI Studio  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-* **Programming Languages:** Python, C++, Java, JavaScript, C, R, Prolog  
-* **ML/DL Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, SciPy, MATLAB, Optuna  
-* **AI/LLM Ecosystem:** Hugging Face Transformers, LangChain, LangGraph, LangSmith, Ollama  
-* **Databases:** PostgreSQL, MySQL, MongoDB, Cosmos DB, Vector DBs (FAISS, ChromaDB)  
-* **Backend & Web Development:** FastAPI, Django, React, Nuxt, React Native (Expo)  
-* **Distributed Computing & Big Data:** Apache Spark  
-* **Cloud & DevOps Tools:** Microsoft Azure, Docker, GitHub Actions, Git, MLflow  
-* **Environments & Platforms:** Jupyter Notebooks, Google Colab, Kaggle, Azure AI Studio  
-* **Additional Tools:** Linux (Ubuntu), ESP32 Microcontrollers, Tesseract OCR, LaTeX, Figma  
+* **𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀**  
+  Python, C++, Java, JavaScript, C, R, Prolog  
 
+* **𝗠𝗟/𝗗𝗟 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀**  
+  TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, SciPy, MATLAB, Optuna  
+
+* **𝗔𝗜/𝗟𝗟𝗠 𝗘𝗰𝗼𝘀𝘆𝘀𝘁𝗲𝗺**  
+  Hugging Face Transformers, LangChain, LangGraph, LangSmith, Ollama  
+
+* **𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀**  
+  PostgreSQL, MySQL, MongoDB, Cosmos DB, Vector DBs (FAISS, ChromaDB)  
+
+* **𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁**  
+  FastAPI, Django, React, Nuxt, React Native (Expo)  
+
+* **𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴 & 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮**  
+  Apache Spark  
+
+* **𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀 𝗧𝗼𝗼𝗹𝘀**  
+  Microsoft Azure, Docker, GitHub Actions, Git, MLflow  
+
+* **𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀**  
+  Jupyter Notebooks, Google Colab, Kaggle, Azure AI Studio  
+
+* **𝗔𝗱𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗧𝗼𝗼𝗹𝘀**  
+  Linux (Ubuntu), ESP32 Microcontrollers, Tesseract OCR, LaTeX, Figma
