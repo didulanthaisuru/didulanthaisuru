@@ -16,16 +16,12 @@
 ## 🚀 Areas of Expertise
 
 * 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀)<br>
-  &nbsp;&nbsp;model:GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
-  &nbsp;&nbsp;Techniques: Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
-  &nbsp;&nbsp;Agentic AI Workflows: Crew AI, LangChain, LangGraph, LangSmith  
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Models : GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techniques : Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agentic AI Workflows : Crew AI, LangChain, LangGraph, LangSmith  
 * 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗡𝗟𝗣) : Text classification, Summarization, Question answering, Speech recognition (Whisper)  
-
 * 𝗧𝗶𝗺𝗲 𝗦𝗲𝗿𝗶𝗲𝘀 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 : N-BEATS, TFT, LSTM, Prophet, Tree-based models (Random Forest, XGBoost, CatBoost, LightGBM)  
-
 * 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 : Image, audio, and text generation, Diffusion models, Creative AI pipelines  
-
 * 𝗠𝗟𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱 : End-to-end model deployment, CI/CD, Monitoring, Scalable pipelines, Docker, MLflow, Azure AI Studio  
 
 ---
