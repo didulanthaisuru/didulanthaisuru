@@ -5,6 +5,7 @@
 <div align="center">
 <div style="border: 2px solid #FF6B6B; border-radius: 12px; padding: 20px; text-align: justify; background-color: #1e1e1e; color: #ffffff; line-height: 1.6; max-width: 800px; margin: auto;">
   I'm a <b>3rd-year Artificial Intelligence undergraduate</b> passionate about mastering <b>core AI fundamentals</b> and transforming <b>math, statistics, and data</b> into intelligent systems. I explore <b>Machine Learning, Deep Learning, Natural Language Processing, Agentic AI, and Time Series Forecasting</b> through <b>research and projects built from scratch</b>, applying <b>fundamental theory</b> to <b>real-world problems</b> and creating <b>practical AI solutions with tangible impact</b>.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=11&color=808080&text=Learn%20core%20deeply,%20create%20from%20scratch,%20transform%20ideas%20into%20real-world%20solutions.&fontAlign=50&fontSize=11&fontColor=808080"/>
 </div>
 </div>
 
