@@ -13,73 +13,32 @@
 [LinkedIn](https://www.linkedin.com/in/isurudidulantha) | [Medium](https://medium.com/@isurudidulantha) | [Email](mailto:isurudidulantha@gmail.com)
 
 ---
+## 🚀 Areas of Expertise
+
+* **Large Language Models (LLMs)**
+  * **Models:** GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
+  * **Techniques:** Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
+  * **Agentic AI Workflows:** Crew AI, LangChain, LangGraph, LangSmith  
+
+* **Natural Language Processing (NLP)** — Text classification, summarization, question answering, speech recognition (Whisper)  
+
+* **Time Series Forecasting** — N-BEATS, Temporal Fusion Transformer (TFT), LSTM, Prophet, Tree-based Models (Random Forest, XGBoost, CatBoost, LightGBM)  
+
+* **Generative AI** — Image, audio, and text generation, Diffusion models, Creative AI pipelines  
+
+* **MLOps & Cloud** — End-to-end model deployment, CI/CD, Monitoring, Scalable pipelines, Docker, MLflow, Azure AI Studio  
+
 ---
 
-<div align="center">
+## 🛠️ Tech Stack & Tools
 
-## 🛠️ **Technical Skills**
+* **Programming Languages:** Python, C++, Java, JavaScript, C, R, Prolog  
+* **ML/DL Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, SciPy, MATLAB, Optuna  
+* **AI/LLM Ecosystem:** Hugging Face Transformers, LangChain, LangGraph, LangSmith, Ollama  
+* **Databases:** PostgreSQL, MySQL, MongoDB, Cosmos DB, Vector DBs (FAISS, ChromaDB)  
+* **Backend & Web Development:** FastAPI, Django, React, Nuxt, React Native (Expo)  
+* **Distributed Computing & Big Data:** Apache Spark  
+* **Cloud & DevOps Tools:** Microsoft Azure, Docker, GitHub Actions, Git, MLflow  
+* **Environments & Platforms:** Jupyter Notebooks, Google Colab, Kaggle, Azure AI Studio  
+* **Additional Tools:** Linux (Ubuntu), ESP32 Microcontrollers, Tesseract OCR, LaTeX, Figma  
 
-</div>
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-grey?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-grey?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-grey?style=flat&logo=c)
-![R](https://img.shields.io/badge/-R-grey?style=flat&logo=r)
-![Prolog](https://img.shields.io/badge/-Prolog-grey?style=flat)
-
-### Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-grey?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-grey?style=flat&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-grey?style=flat&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/-NumPy-grey?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-grey?style=flat&logo=pandas)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-grey?style=flat&logo=apachespark)
-![MATLAB](https://img.shields.io/badge/-MATLAB-grey?style=flat&logo=mathworks)
-
-### Natural Language Processing & AI
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-grey?style=flat)
-![LangChain](https://img.shields.io/badge/-LangChain-grey?style=flat)
-![LangGraph](https://img.shields.io/badge/-LangGraph-grey?style=flat)
-![OpenAI](https://img.shields.io/badge/-OpenAI-grey?style=flat&logo=openai)
-![LLaMA](https://img.shields.io/badge/-LLaMA-grey?style=flat)
-![Whisper](https://img.shields.io/badge/-Whisper-grey?style=flat)
-
-### Time Series & Forecasting
-![N-BEATS](https://img.shields.io/badge/-N--BEATS-grey?style=flat)
-![TFT](https://img.shields.io/badge/-TFT-grey?style=flat)
-![LSTM](https://img.shields.io/badge/-LSTM-grey?style=flat)
-![Prophet](https://img.shields.io/badge/-Prophet-grey?style=flat)
-![XGBoost](https://img.shields.io/badge/-XGBoost-grey?style=flat)
-![CatBoost](https://img.shields.io/badge/-CatBoost-grey?style=flat)
-![LightGBM](https://img.shields.io/badge/-LightGBM-grey?style=flat)
-
-### Web Development
-![FastAPI](https://img.shields.io/badge/-FastAPI-grey?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/-Django-grey?style=flat&logo=django)
-![React](https://img.shields.io/badge/-React-grey?style=flat&logo=react)
-![Nuxt](https://img.shields.io/badge/-Nuxt-grey?style=flat&logo=nuxt.js)
-![React Native](https://img.shields.io/badge/-React%20Native-grey?style=flat&logo=react)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb)
-![FAISS](https://img.shields.io/badge/-FAISS-grey?style=flat)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-grey?style=flat)
-
-### Cloud & DevOps
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-grey?style=flat&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker)
-![MLflow](https://img.shields.io/badge/-MLflow-grey?style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-grey?style=flat&logo=github-actions)
-![Git](https://img.shields.io/badge/-Git-grey?style=flat&logo=git)
-
-### Development Tools
-![Jupyter](https://img.shields.io/badge/-Jupyter-grey?style=flat&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-grey?style=flat&logo=google-colab)
-![Kaggle](https://img.shields.io/badge/-Kaggle-grey?style=flat&logo=kaggle)
-![Linux](https://img.shields.io/badge/-Linux-grey?style=flat&logo=linux)
-![LaTeX](https://img.shields.io/badge/-LaTeX-grey?style=flat&logo=latex)
