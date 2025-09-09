@@ -13,7 +13,7 @@
 [LinkedIn](https://www.linkedin.com/in/isurudidulantha) | [Medium](https://medium.com/@isurudidulantha) | [Email](mailto:isurudidulantha@gmail.com)
 
 ---
-## 🚀 Areas of Expertise
+<h2 align="left" style="color:#808080;">Areas of Expertise</h2>
 
 * 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Models : GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
