@@ -11,7 +11,7 @@
 
 ---
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=133&color=808080&text=𝙲𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐%20.%20.%20.&fontAlign=50&fontSize=19&fontColor=808080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=132&color=808080&text=𝙲𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐%20.%20.%20.&fontAlign=50&fontSize=19&fontColor=808080"/>
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isurudidulantha) 
 [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat&logo=medium&logoColor=white)](https://medium.com/@isurudidulantha) 
