@@ -41,7 +41,7 @@
 ▪ 𝗠𝗟/𝗗𝗟 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 : TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, SciPy, MATLAB, Optuna  
 ▪ 𝗔𝗜/𝗟𝗟𝗠 𝗘𝗰𝗼𝘀𝘆𝘀𝘁𝗲𝗺 : Hugging Face Transformers, LangChain, LangGraph, LangSmith, Ollama  
 ▪ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 : PostgreSQL, MySQL, MongoDB, Cosmos DB, Vector DBs (FAISS, ChromaDB)  
-▪ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 : FastAPI, Django, React, Nuxt, React Native (Expo)  
+▪ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 : FastAPI, Django, React, Nuxt, React Native (Expo) ,microservices  
 ▪ 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴 & 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 : Apache Spark  
 ▪ 𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀 𝗧𝗼𝗼𝗹𝘀 : Microsoft Azure, Docker, GitHub Actions, Git, MLflow  
 ▪ 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 : Jupyter Notebooks, Google Colab, Kaggle, Azure AI Studio  
