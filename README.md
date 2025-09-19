@@ -38,7 +38,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&color=808080&text=𝗧𝗲𝗰𝗵%20𝗦𝘁𝗮𝗰𝗸%20and%20𝗧𝗼𝗼𝗹𝘀&fontAlign=13&fontSize=20&fontColor=808080"/>
 
 ▪ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 : Python, C++, Java, JavaScript, C, R, Prolog  
-▪ 𝗠𝗟/𝗗𝗟 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 : TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, SciPy, MATLAB, Optuna  
+▪ 𝗠𝗟/𝗗𝗟 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 : TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, SciPy, MATLAB, Optuna, Seaborn  
 ▪ 𝗔𝗜/𝗟𝗟𝗠 𝗘𝗰𝗼𝘀𝘆𝘀𝘁𝗲𝗺 : Hugging Face Transformers, LangChain, LangGraph, LangSmith, Ollama  
 ▪ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 : PostgreSQL, MySQL, MongoDB, Cosmos DB, Vector DBs (FAISS, ChromaDB)  
 ▪ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 : FastAPI, Django, React, Nuxt, React Native (Expo) ,microservices  
