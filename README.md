@@ -27,7 +27,7 @@
 ▪ 𝗧𝗶𝗺𝗲 𝗦𝗲𝗿𝗶𝗲𝘀 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 : N-BEATS, TFT, LSTM, Prophet, Tree-based models (Random Forest, XGBoost, CatBoost, LightGBM)<br>
 ▪ 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀 (𝗟𝗟𝗠𝘀) :<br>
   &nbsp;&nbsp;&nbsp;◦ 𝗺𝗼𝗱𝗲𝗹𝘀 : GPT, LLaMA3.2, DeepSeek, OpenAI, GeminiAI, Phi-3-mini, SentenceTransformers  
-  &nbsp;&nbsp;&nbsp;◦ 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 : Fine-tuning, Prompt Engineering, RAG (Dynamic & Static)  
+  &nbsp;&nbsp;&nbsp;◦ 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 : Fine-tuning,LoRA,PEFT, Prompt Engineering, RAG (Dynamic & Static)  
   &nbsp;&nbsp;&nbsp;◦ 𝗮𝗴𝗲𝗻𝘁𝗶𝗰 𝗮𝗶 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 : Crew AI, LangChain, LangGraph, LangSmith  
 ▪ 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗡𝗟𝗣) : Text classification, Summarization, Question answering, Speech recognition (Whisper)   
 ▪ 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 : Image, audio, and text generation, Diffusion models, Creative AI pipelines  
